@@ -83,3 +83,6 @@ This project is created for **educational and data analysis purposes only**.
 
 GitHub:  
 https://github.com/iqbal188
+
+Linkedin:
+https://www.linkedin.com/in/mohammad-iqbal-121377328/
