@@ -1,4 +1,4 @@
-# movie-data-scrapping-justwatch
+### JustWatch Movie Dataset Scraper
 This project scrapes movie information from JustWatch including:  
 - Title
 - Year
@@ -9,3 +9,9 @@ This project scrapes movie information from JustWatch including:
 - Director
 - Main Actor
 - Production Country
+
+# Technologies
+- Python
+- Selenium
+- BeautifulSoup
+- Pandas
