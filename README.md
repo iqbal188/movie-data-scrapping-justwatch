@@ -55,24 +55,6 @@ Website → Selenium Scraping → HTML Storage → BeautifulSoup Parsing → Cle
 
 ---
 
-## 📂 Project Structure
-
-movie-data-scrapping-justwatch
-├── demo-selenium-yutube-video
-│
-│── justwatchscraper.py
-│
-├ notebooks
-│ └── data_processing.ipynb
-│
-├── data
-│ └── movies_dataset.csv
-│
-└── README.md
-
-
----
-
 ## 📊 Example Dataset
 
 | title | year | genre | runtime_in_min | imdb_rating |
